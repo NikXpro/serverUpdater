@@ -1,4 +1,4 @@
-## ServerUpdater
+## ServerUpdater (Windows°
 
 ServerUpdater is a simple tool to update your fivem server with a single exe files.
 
