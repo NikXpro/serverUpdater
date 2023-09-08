@@ -7,7 +7,7 @@ ServerUpdater is a simple tool to update your fivem server with a single exe fil
 - Select channels (latest, recommended)
 
 ## Installation
-- Download the latest release from [here](https://github.com/NikXpro/nth_core/releases)
+- Download the latest release from [here](https://github.com/NikXpro/nth_core/releases](https://github.com/NikXpro/serverUpdater/releases)https://github.com/NikXpro/serverUpdater/releases)
 - That's all
 
 ## Usage
